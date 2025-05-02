@@ -6,7 +6,7 @@
             object-position: center top;">
 </div>
 
-RT-Pad is a 3 key keypad capable of using [rappid trigger](https://wooting.io/rapid-trigger) as the key input is from magnetic hall-effect sensors under a linear magnet switch.
+RT-Pad is a 3 key keypad capable of using [rapid trigger](https://wooting.io/rapid-trigger) as the key input is from magnetic hall-effect sensors under a linear magnet switch.
 
 ## Hardware Used
 - Raspberry pi pico 1
