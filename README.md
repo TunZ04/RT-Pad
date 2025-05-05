@@ -13,7 +13,7 @@ RT-Pad is a 3 key keypad capable of using [rapid trigger](https://wooting.io/rap
 - 49E Hall Effect Sensor x3
 - 3D printed case parts
 - Self-tapping t10 screw x4
-- Hall-effect key switch x3
+- Hall-effect key switch x3 (you can buy these or make yourself from normal linear switches)
 
 ## Software
 The software is contained within a single INO file. To flash I used [Arduino IDE](https://www.arduino.cc/en/software/).
